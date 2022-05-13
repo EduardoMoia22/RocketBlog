@@ -16,6 +16,10 @@
   --green: #4fff4b;
 }
 
+body {
+  background-color: var(--light-purple);
+}
+
 .container {
   max-width: 1200px;
   min-width: 320px;
